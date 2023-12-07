@@ -1,1 +1,2 @@
-# BOILERPLATE_STRAPI_API
+# P36_Website_API
+strapi cms api
